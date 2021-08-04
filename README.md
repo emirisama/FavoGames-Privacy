@@ -3,9 +3,10 @@
 - FavoGames（スマートフォン用アプリ）は、第三者に個人を特定できる情報を提供することはありません。
 - 個人情報の管理には最新の注意を払い、以下に掲げた通りに扱います。
 ## 2. 収集する情報
-- FavoGamesは、お客様の利便性向上のため、Google Firebase Analyticsを使用して利用状況解析をする場合がございます。また、収集した情報をお問い合わせに対する返信のために利用いたします。
+- FavoGamesは、お客様の利便性向上のため、広告配信のためにGoogle AdMob、Google Firebase Analyticsを使用して利用状況解析をする場合がございます。また、収集した情報をお問い合わせに対する返信のために利用いたします。
 - 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 - [Firebase Analytics（Google Inc.)](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
+- AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja)
 ## 3. 個人情報の第三者への開示・提供の禁止
 - お客様よりお預かりした個人情報を適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
 - 3-1. お客さまの同意がある場合
