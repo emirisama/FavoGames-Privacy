@@ -1,0 +1,1 @@
+# FavoGames-Privacy
